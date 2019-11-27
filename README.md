@@ -1,16 +1,11 @@
-# whats_new
+# What's New?
 
-A new Flutter project.
+A simple News gathering app for Android and IOS using Flutter SDK.
 
-## Getting Started
+## Download
 
-This project is a starting point for a Flutter application.
+You can download the Official app on the [Google Play Store](https://play.google.com/store/apps/details?id=com.toyboat.whats_new)
 
-A few resources to get you started if this is your first Flutter project:
+## Run from source
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the application from source code, you must first setup a Flutter developer environment and connect a smartphone or emulator to your computer. Then from the root directory type "flutter run" to launch the application.
